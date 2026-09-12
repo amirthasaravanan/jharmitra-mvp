@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+jansahyog.db
+uploads/
+.env
